@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
                    Formulario()
                 }
                 composable("listas") {
-                   // listas()
+                   listas()
                 }
 
             }

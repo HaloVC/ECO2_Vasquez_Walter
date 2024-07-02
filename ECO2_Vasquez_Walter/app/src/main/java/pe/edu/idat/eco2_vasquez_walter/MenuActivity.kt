@@ -60,7 +60,7 @@ fun MenuScreen(navController: NavController) {
                     navController.navigate("listas")
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFFFFC107),
+                    containerColor = Color(0xFF4CAF50),
                     contentColor = Color.White
                 ),
                 modifier = Modifier
