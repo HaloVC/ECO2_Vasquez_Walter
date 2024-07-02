@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
                 composable("menu") { MenuScreen(navController) }
 
                 composable("formulario") {
-                   // Formulario()
+                   Formulario()
                 }
                 composable("listas") {
                    // listas()
